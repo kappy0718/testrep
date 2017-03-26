@@ -3,5 +3,5 @@
 3.commit C
 4.commit D
 5.commit E
-6.commit F master
-7.commit G master
+6.commit F
+7.commit G
